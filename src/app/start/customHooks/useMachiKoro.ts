@@ -1,5 +1,5 @@
 type MachiKoro = {
-    dice: Int16Array[],
+    dice: number[],
 
 }
 
